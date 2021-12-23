@@ -44,6 +44,20 @@ title: Chia-Jui Chang's resume
   - *[Bottender](https://github.com/Yoctol/bottender)* aim to build a flexible framework, meanwhile provide elegant APIs supporting multiple messaging platforms. Initially, I joined this project as a framework user. As time went by, I grew along with the project and contributed in various ways, including: digging out business opportunities, refining developer experience, document writing, debugging, implementing new features. Learning different points of view by thinking differently is one of the most precious experiences contributing to this project.
 
 
+## Volunteer Experience
+
+### Software Developer @ Foodsharing Taiwan
+`Sep 2017 – Jan 2018`
+
+After graduation and the gap year, during my job seeking period. I try to reach some NPO/NGO and see what I can help, devote myself to the society.
+Supported the integration of the content managing system. Figure out how to set up the localization and customization requirements.
+
+### IT Support Specialist @ National Cheng Kung University
+`Sep 2014 – Feb 2015`
+
+Volunteer IT support the after-school program for rural students, we try to eliminate the disadvantages by after school mentoring remotely, with video conferencing software.
+
+
 ## Education
 ### Bachelor's degree, Computer Science and Information Engineering @ National Cheng Kung University (Tainan, Taiwan)
 `2011 – 2016`
