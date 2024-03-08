@@ -9,8 +9,17 @@ title: Chia-Jui Chang's resume
 
 
 ## Professional Experience
+
+### Senior Backend Developer @ *Appier*
+`Mar 2022 - Mar 2024`
+  - Handle business feature requests, task scheduling, requirement clarification, design, implement.
+  - Co-operate with teams on a monolithic repo to micro services rearchtech.
+  - Bootstrap short url and server side tracking system.
+  - Connect 3rd party sms messaging system.
+  - Executed several POC project, including LLM feature, redis benchmark, 3rd party messaging vender.
+
 ### Technical Team Lead @ *YOCTOL.AI* 
-`May 2021 – Present`
+`May 2021 – Dec 2021`
   - Manage a flat tech team with around 5 developers which work partially remote, major duties are: task assignment, recruitment, interview and training.
   - Operate the distributed system built upon Kubernetes, including: developing, versioning, debugging, deploying, monitoring the services.
   - Independently migrated the system between Azure Kubernetes Service clusters, which contains 120 running pods and host services that serve 500 rpm in average, leveraging Kubernetes system and [Velero](https://velero.io/) to achieve a smooth migration.
@@ -61,13 +70,18 @@ During my pursuit of the degree, I kept variety wide open. I took courses more t
     - Debugging
   - Familiar with
     - Python
+    - Golang
+    - MySQL
+    - Redis
     - RabbitMQ
     - Kubernetes
     - Prometheus & Grafana
     - Testing
+    - AWS
     - Azure
     - Remote Collaboration
-  - Basic understanding
-    - React
     - SCRUM methodology
     - Agile methodology
+  - Basic understanding
+    - React
+    
