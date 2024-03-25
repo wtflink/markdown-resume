@@ -6,4 +6,4 @@ There's not much config currently.
 
 Just modify the index.md and [set up GitHub Pages](https://docs.github.com/en/pages/quickstart)
 
-Check demo: https://wtflink.github.io/markdown-resume/
+Check demo [here](https://wtflink.github.io/markdown-resume/)
