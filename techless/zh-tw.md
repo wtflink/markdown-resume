@@ -5,7 +5,7 @@ title: Chia-Jui Chang's resume
 
 ## 張家睿 (Ray Chang / Chia-Jui Chang)
 
-[Email](mailto:wtflink515@gmail.com) | [Linkedin](https://www.linkedin.com/in/chia-jui-chang/)
+Email: [wtflink515@gmail.com](mailto\:wtflink515@gmail.com) | [Linkedin](https://www.linkedin.com/in/chia-jui-chang/)
 
 ## 個人資料
 
@@ -16,6 +16,14 @@ title: Chia-Jui Chang's resume
 
 ## 工作經驗
 
+### 換宿幫手 @ *櫻雪雫石滑雪學校* (雫石, 日本)
+
+`Dec 2024 - Feb 2025`
+
+協助滑雪學校日常運營，包括接待客人、租借雪具調度、裝備整理與維修。
+負責裝備租借，幫助客人選擇正確雪具，協助穿脫裝備及正確使用。
+負責接送服務，確保客人交通便利。
+
 ### 換證幫手 @ *台灣潛水 綠島店 Taiwan Dive Center Green island* (綠島, 台灣)
 
 `Sep 2024 - Oct 2024`
@@ -24,7 +32,7 @@ title: Chia-Jui Chang's resume
 
 ### 換證幫手 @ *鬧潛水 Now Diving Center* (貢寮, 台灣)
 
-`Apr 2024 - May 2024` & `Aug 2024`
+`May 2025` & `Aug 2024` & `Apr 2024 - May 2024` 
 
 協助潛水課程和裝備管理，並負責潛水店內營運，包括客人接待、房務、清潔，氣瓶打氣、裝備調度以及基本維修。兼任火鍋店的運營支援，處理前後場的工作、接待和結帳等任務。
 
@@ -81,9 +89,9 @@ title: Chia-Jui Chang's resume
 ## 技能
 
 - 語言:
-    - 母語中文
-    - 流利的英文
-- 潛水證照: 
-    - 救援潛水員
-    - 高氧、深潛
+  - 母語中文
+  - 流利的英文
+- 潛水證照:
+  - 救援潛水員
+  - 高氧、深潛
 - 手排汽機車駕照
