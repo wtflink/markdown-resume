@@ -9,7 +9,7 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [GitHub](https://gi
 
 ## Professional Experience
 
-### Senior Backend Developer @ *Appier*
+### Senior Backend Developer @ *[Appier](https://www.appier.com/)*
 
 `Mar 2022 - Mar 2024`
 
@@ -19,7 +19,7 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [GitHub](https://gi
 - Connect 3rd party sms messaging system.
 - Executed several POC project, including LLM feature, redis benchmark, 3rd party messaging vender.
 
-### Technical Team Lead @ *YOCTOL.AI*
+### Technical Team Lead @ *[YOCTOL.AI](https://yoctol.ai/tw/)*
 
 `May 2021 – Dec 2021`
 
@@ -28,7 +28,7 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [GitHub](https://gi
 - Independently migrated the system between Azure Kubernetes Service clusters, which contains 120 running pods and host services that serve 500 rpm in average, leveraging Kubernetes system and [Velero](https://velero.io/) to achieve a smooth migration.
 - Document writing and organizing.
 
-### Software Developer @ *YOCTOL.AI*
+### Software Developer @ *[YOCTOL.AI](https://yoctol.ai/tw/)*
 
 `May 2018 – May 2021`
 
@@ -39,7 +39,7 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [GitHub](https://gi
 - Connect both LINE and Facebook messenger chatbot based on project experience for our platform.
 - Adopt new features from LINE and Facebook, and constantly improve user experience.
 
-### Chatbot Developer @ *YOCTOL.AI*
+### Chatbot Developer @ *[YOCTOL.AI](https://yoctol.ai/tw/)*
 
 `Nov 2017 – Dec 2019`
 
