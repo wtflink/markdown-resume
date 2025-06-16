@@ -5,7 +5,7 @@ title: Chia-Jui Chang's resume
 
 ## 張家睿 (Ray Chang / Chia-Jui Chang)
 
-Email: [wtflink515@gmail.com](mailto\:wtflink515@gmail.com) | [Linkedin](https://www.linkedin.com/in/chia-jui-chang/)
+Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [Linkedin](https://www.linkedin.com/in/chia-jui-chang/)
 
 ---
 

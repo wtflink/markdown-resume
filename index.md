@@ -5,7 +5,7 @@ title: Chia-Jui Chang's resume
 
 ## Ray Chang
 
-Email: [wtflink515@gmail.com](mailto\:wtflink515@gmail.com) | [GitHub](https://github.com/wtflink) | [Linkedin](https://www.linkedin.com/in/chia-jui-chang/)
+Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [GitHub](https://github.com/wtflink) | [Linkedin](https://www.linkedin.com/in/chia-jui-chang/)
 
 ## Professional Experience
 
