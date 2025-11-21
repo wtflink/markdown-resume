@@ -16,6 +16,13 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [Linkedin](https://
 
 ## 工作經驗
 
+### 小屋綜合支援人員 @ *Kosciusko Alpine Club*（Thredbo，澳洲）
+
+`Jul 2025 - Sep 2025`
+
+負責日常房務、房間整理與旅館公共區域的基本維護。
+協助備餐、清潔、洗碗等工作，並在需要時支援前台與客戶服務，確保旅客有良好的住宿體驗。
+
 ### 換宿幫手 @ *櫻雪雫石滑雪學校* (雫石, 日本)
 
 `Dec 2024 - Feb 2025`
@@ -32,7 +39,7 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [Linkedin](https://
 
 ### 換證幫手 @ *鬧潛水 Now Diving Center* (貢寮, 台灣)
 
-`May 2025` & `Aug 2024` & `Apr 2024 - May 2024` 
+`May 2025` & `Aug 2024` & `Apr 2024 - May 2024`
 
 協助潛水課程和裝備管理，並負責潛水店內營運，包括客人接待、房務、清潔，氣瓶打氣、裝備調度以及基本維修。兼任火鍋店的運營支援，處理前後場的工作、接待和結帳等任務。
 
@@ -92,6 +99,6 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [Linkedin](https://
   - 母語中文
   - 流利的英文
 - 潛水證照:
-  - 救援潛水員
+  - 潛水長
   - 高氧、深潛
 - 手排汽機車駕照

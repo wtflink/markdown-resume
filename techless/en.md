@@ -11,6 +11,15 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [Linkedin](https://
 
 ## Work Experience
 
+### Austurlia Working Holiday Experiences
+
+#### *[Kosciusko Alpine Club](https://www.kac.org.au/lodges/kac-thredbo)* (Thredbo, Austurlia)
+
+`Jul 2025 - Sep 2025`
+
+- Performed daily housekeeping, room turnovers, and general lodge maintenance.
+- Assisted with food preparation, cleaning, dishwashing, and occasionally supported front-of-house operations to ensure a smooth lodge experience for guests.
+
 ### Working Exchage Experiences
 
 #### *[Sakurayuki Ski School](https://www.syski.com.tw/)* (Shizukuishi, Japan)
@@ -104,5 +113,5 @@ Seafood processing worker responsible for mussel opening, grading, and packaging
 
 - **Technical Skills**: Backend development, system design, AI tool integration.
 - **Languages**: Native Mandarin, Fluent English.
-- **Certifications**: Rescue Diver, Enriched Air Diver, Deep Diver.
+- **Certifications**: Divemaster, Enriched Air Diver, Deep Diver.
 - **Driving Skills**: Manual car and motorcycle licenses.
