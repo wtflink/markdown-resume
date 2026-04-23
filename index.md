@@ -14,7 +14,7 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [GitHub](https://gi
 `Mar 2022 - Mar 2024`
 
 - Handle business feature requests, task scheduling, requirement clarification, design, implement.
-- Co-operate with teams on a monolithic repo to micro services rearchtech.
+- Co-operate with teams on a monolithic repo to micro services re-architect.
 - Bootstrap short url and server side tracking system.
 - Connect 3rd party sms messaging system.
 - Executed several POC project, including LLM feature, redis benchmark, 3rd party messaging vender.
