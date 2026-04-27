@@ -13,11 +13,11 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [GitHub](https://gi
 
 `Mar 2022 - Mar 2024`
 
-- Handle business feature requests, task scheduling, requirement clarification, design, implement.
-- Co-operate with teams on a monolithic repo to micro services re-architect.
-- Bootstrap short url and server side tracking system.
-- Connect 3rd party sms messaging system.
-- Executed several POC project, including LLM feature, redis benchmark, 3rd party messaging vender.
+- Delivered backend features for digital marketing products, covering requirement clarification, system design, implementation, and production support in a 10-engineer team.
+- Maintained a large-scale platform spanning 38 repositories across EC2- and Kubernetes-based deployments, including a 24-node cluster running 49 deployments and about 430 pods.
+- Contributed to a multi-stage rearchitecture from monolithic services to microservices, including segmentation-related extraction, segment orchestration, and creative composition service migration.
+- Built core campaign capabilities such as short URL services, server-side tracking, and third-party SMS integrations for enterprise marketing workflows.
+- Ran technical POCs to validate product and infrastructure decisions, including Redis Bloom filter vs. hash map benchmarks, LLM-generated CMS content workflows, and third-party vendor evaluations.
 
 ### Technical Team Lead @ *[YOCTOL.AI](https://yoctol.ai/tw/)*
 
