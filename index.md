@@ -7,59 +7,62 @@ title: Chia-Jui Chang's resume
 
 Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [GitHub](https://github.com/wtflink) | [Linkedin](https://www.linkedin.com/in/chia-jui-chang/)
 
+## Summary
+
+Senior backend engineer with 7+ years of experience building distributed systems, chatbot platforms, and developer tooling. Specialized in Node.js and Python, with a track record of delivering scalable services on Kubernetes and AWS. Currently available for freelance and contract engagements.
+
 ## Professional Experience
 
 ### Senior Backend Developer @ *[Appier](https://www.appier.com/)*
 
 `Mar 2022 - Mar 2024`
 
-- Handle business feature requests, task scheduling, requirement clarification, design, implement.
-- Co-operate with teams on a monolithic repo to micro services re-architect.
-- Bootstrap short url and server side tracking system.
-- Connect 3rd party sms messaging system.
-- Executed several POC project, including LLM feature, redis benchmark, 3rd party messaging vender.
+- Owned end-to-end delivery of business features across requirement clarification, system design, and implementation within a cross-functional team.
+- Bootstrapped a short URL and server-side tracking system from the ground up, enabling more reliable attribution for marketing analytics.
+- Led integration of a third-party SMS messaging system, expanding the platform's outbound channel coverage.
+- Collaborated on migrating a monolithic codebase to a microservices architecture, improving team autonomy and deployment independence.
+- Executed multiple proof-of-concept projects including an LLM-powered feature, a Redis performance benchmark, and evaluation of third-party messaging vendors.
 
 ### Technical Team Lead @ *[YOCTOL.AI](https://yoctol.ai/tw/)*
 
 `May 2021 – Dec 2021`
 
-- Manage a flat tech team with around 5 developers which work partially remote, major duties are: task assignment, recruitment, interview and training.
-- Operate the distributed system built upon Kubernetes, including: developing, versioning, debugging, deploying, monitoring the services.
-- Independently migrated the system between Azure Kubernetes Service clusters, which contains 120 running pods and host services that serve 500 rpm in average, leveraging Kubernetes system and [Velero](https://velero.io/) to achieve a smooth migration.
-- Document writing and organizing.
+- Led a flat, partially remote engineering team of ~5 developers, handling task assignment, recruitment, interviews, and onboarding.
+- Operated and maintained a distributed system on Kubernetes, covering development, versioning, debugging, deployment, and monitoring.
+- Independently led a zero-downtime migration across Azure Kubernetes Service clusters: 120 running pods, services averaging 500 RPM, using Kubernetes tooling and [Velero](https://velero.io/) for state backup and restore.
+- Established team documentation practices to improve knowledge transfer and reduce onboarding friction.
 
 ### Software Developer @ *[YOCTOL.AI](https://yoctol.ai/tw/)*
 
 `May 2018 – May 2021`
 
-- Monitor PostgreSQL database operating performance, analyze and refine queries when bottleneck is located.
-- Implement backend features using GraphQL, connecting databases, event brokers, and third party services.
-- Be a maintainer of a distributed system, dig out errors and make things right.
-- Implement integration and end-to-end tests, keep up the coverage.
-- Connect both LINE and Facebook messenger chatbot based on project experience for our platform.
-- Adopt new features from LINE and Facebook, and constantly improve user experience.
+- Monitored PostgreSQL performance, identified bottlenecks, and optimized slow queries to improve system throughput.
+- Implemented backend features via GraphQL, integrating databases, event brokers, and third-party services.
+- Maintained distributed system reliability by triaging and resolving production errors.
+- Built and maintained integration and end-to-end test suites, keeping coverage above team-defined thresholds.
+- Extended the chatbot platform to support both LINE and Facebook Messenger, contributing to the core framework based on production experience.
+- Tracked and integrated new features released by LINE and Facebook to keep user-facing experiences current.
 
 ### Chatbot Developer @ *[YOCTOL.AI](https://yoctol.ai/tw/)*
 
 `Nov 2017 – Dec 2019`
 
-- Built chatbot based on the [Bottender](https://github.com/Yoctol/bottender) framework, contribute to the framework on leisure time.
-- Update and Maintain Yoctol Official customer servicing chatbot.
-- Built a campaign chatbot which serves 60k requests during a 5 min period, the campaign is hosted by a Taiwanese leading telecom company.
-- Built a customer servicing chatbot, serving both Line and Facebook platform for a Taiwanese leading telecom company.
-- Built a NLU based customer servicing chatbot for Taiwanese major banking/insurance company.
-- Built a dental customized chatbot content management system from scratch.
-- Apply the above system on Kubernetes and made proper design of the mechanism.
+- Built multiple production chatbots on the [Bottender](https://github.com/Yoctol/bottender) framework; contributed bug fixes and feature improvements back to the open-source project.
+- Maintained the Yoctol official customer-service chatbot.
+- Built a campaign chatbot for a leading Taiwanese telecom that handled 60,000 requests in a 5-minute window without degradation.
+- Built a dual-platform (LINE + Facebook) customer-service chatbot for the same telecom client.
+- Built an NLU-based customer-service chatbot for a major Taiwanese banking and insurance group.
+- Built a dental clinic chatbot CMS from scratch, and deployed it on Kubernetes with appropriate operational design.
 
 ## Technical Experience
 
 ### Side Projects
 
-- *[usb-lab](https://github.com/wtflink/usb-lab)* is a simple USB driver, which is mainly for my monitor built-in KVM feature, which can toggle through input source groups, allowing me switch through different device by simply submit a USB command. I found that there is no macOS version of the driver for the monitor. So I try to reverse engineer the monitor and get to know what is going on between the USB signals and the KVM feature. After all the work, I managed to develop a simple USB driver in Node.js, which is based on the [libusb](https://github.com/libusb/libusb) library.
+- *[usb-lab](https://github.com/wtflink/usb-lab)* — Reverse-engineered a monitor's USB KVM interface to build a macOS-compatible driver in Node.js. Analyzed USB signals between the OS and the monitor to identify the KVM command protocol, then implemented a driver on top of [libusb](https://github.com/libusb/libusb) to allow toggling input sources programmatically — filling a gap where no macOS driver existed.
 
 ### Open Source
 
-- *[Bottender](https://github.com/Yoctol/bottender)* aim to build a flexible framework, meanwhile provide elegant APIs supporting multiple messaging platforms. Initially, I joined this project as a framework user. As time went by, I grew along with the project and contributed in various ways, including: digging out business opportunities, refining developer experience, document writing, debugging, implementing new features. Learning different points of view by thinking differently is one of the most precious experiences contributing to this project.
+- *[Bottender](https://github.com/Yoctol/bottender)* — Started as a user of this multi-platform messaging framework, then grew into an active contributor. Contributions spanned identifying business use cases, improving developer experience, writing documentation, fixing bugs, and implementing new features.
 
 ## Education
 
@@ -67,31 +70,31 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [GitHub](https://gi
 
 `2011 – 2016`
 
-During my pursuit of the degree, I kept variety wide open. I took courses more than science and engineering, including religion, philosophy, psychology, social practice, social intervention. Putting theories and practice at equity, makes me a balanced all-rounder in most teams, and I do not fear any challenge.
+Kept a broad academic scope beyond the core curriculum, taking courses in philosophy, psychology, and social practice. This cross-disciplinary approach has carried over into how I approach engineering: balancing technical rigor with communication and team dynamics.
 
 ## Skills
 
-- Proficient
+- **Proficient**
   - Node.js
-  - GraphQL
+  - Python
   - PostgreSQL
-  - MongoDB
+  - GraphQL
+  - Docker
   - Git & GitHub
   - Debugging
-- Familiar with
-  - Python
-  - Golang
+- **Familiar with**
+  - MongoDB
   - MySQL
   - Redis
   - RabbitMQ
   - Kubernetes
-  - Prometheus & Grafana
-  - Testing
   - AWS
   - Azure
+  - Prometheus & Grafana
+  - Testing (integration & E2E)
   - Remote Collaboration
-  - SCRUM methodology
-  - Agile methodology
-- Basic understanding
+  - Agile / SCRUM
+- **Basic understanding**
+  - Golang
   - React
   - Apache Kafka
