@@ -18,11 +18,11 @@ Senior backend engineer with 7+ years of experience building distributed systems
 `Mar 2022 - Mar 2024`
 
 - Contributed to a platform serving a retail client with 4.65M monthly active users and 5M offline data records ingested per day.
-- Participated in a major microservices rearchitecture of the campaign pipeline, decomposing a monolithic system into independently deployable services (segmentation, creative composition, campaign orchestration) across a 38-repo codebase maintained by a team of 10.
+- Participated in a major microservices rearchitecture of the campaign pipeline, decomposing a monolithic system into independently deployable services across a 38-repo codebase maintained by a team of 10.
 - Bootstrapped a short URL and server-side tracking system from the ground up, enabling more reliable attribution for marketing analytics.
 - Built a performance testing harness that generated 145 million records in a single day to validate system throughput under load.
 - Led integration of a third-party SMS messaging system, expanding the platform's outbound channel coverage.
-- Executed multiple proof-of-concept projects: LLM-generated content integration into a CMS, Redis bloom filter vs. hashmap benchmark for high-cardinality deduplication, and third-party messaging vendor evaluation.
+- Executed multiple POC projects: LLM-generated content integration into a CMS, Redis bloom filter vs. hashmap benchmark for high-cardinality deduplication, and third-party messaging vendor evaluation.
 
 ### Technical Team Lead @ *[YOCTOL.AI](https://yoctol.ai/tw/)*
 
@@ -30,7 +30,7 @@ Senior backend engineer with 7+ years of experience building distributed systems
 
 - Led a flat, partially remote engineering team of ~5 developers, handling task assignment, recruitment, interviews, and onboarding.
 - Operated and maintained a distributed system on Kubernetes, covering development, versioning, debugging, deployment, and monitoring.
-- Independently led a zero-downtime migration across Azure Kubernetes Service clusters: 120 running pods, services averaging 500 RPM, using Kubernetes tooling and [Velero](https://velero.io/) for state backup and restore.
+- Independently operated a zero-downtime migration across Azure Kubernetes Service clusters: 120 running pods, services averaging 500 RPM, using Kubernetes tooling and [Velero](https://velero.io/) for state backup and restore.
 - Established team documentation practices to improve knowledge transfer and reduce onboarding friction.
 
 ### Software Developer @ *[YOCTOL.AI](https://yoctol.ai/tw/)*
