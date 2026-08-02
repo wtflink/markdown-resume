@@ -16,14 +16,14 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [Linkedin](https://
 
 ## 工作經驗
 
-### 小屋綜合支援人員 @ *Kosciusko Alpine Club*（Thredbo，澳洲）
+### 小屋綜合支援人員 @ *[Kosciusko Alpine Club](https://www.kac.org.au/lodges/kac-thredbo)*（Thredbo，澳洲）
 
 `Jul 2025 - Sep 2025`
 
 負責日常房務、房間整理與旅館公共區域的基本維護。
 協助備餐、清潔、洗碗等工作，並在需要時支援前台與客戶服務，確保旅客有良好的住宿體驗。
 
-### 換宿幫手 @ *櫻雪雫石滑雪學校* (雫石, 日本)
+### 換宿幫手 @ *[櫻雪雫石滑雪學校](https://www.skisnow.com.tw/)* (雫石, 日本)
 
 `Dec 2024 - Feb 2025`
 

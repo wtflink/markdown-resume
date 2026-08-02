@@ -22,7 +22,7 @@ Email: [wtflink515@gmail.com](mailto:wtflink515@gmail.com) | [Linkedin](https://
 
 ### Working Exchage Experiences
 
-#### *[Sakurayuki Ski School](https://www.syski.com.tw/)* (Shizukuishi, Japan)
+#### *[Sakurayuki Ski School](https://www.skisnow.com.tw/)* (Shizukuishi, Japan)
 
 `Dec 2024 - Feb 2025`
 
